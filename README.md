@@ -1,2 +1,2 @@
 # Lung_cancer_stage_prediction
-The machine learning model that can accurately forecast the cancer stage of patients with lung cancer based on the size of their tumors.
+This project focuses on predicting lung cancer stages using machine learning models, specifically Logistic Regression and K-Nearest Neighbors, based on tumor size. Synthetic data was created for analysis, ensuring no missing values or outliers. Exploratory Data Analysis (EDA) techniques like histograms and boxplots were used to understand data patterns. Logistic Regression showed slightly better accuracy, aiding in precise staging and improved treatment planning.
